@@ -3,3 +3,4 @@ if int % 3  == 0
     "fizz"
   end
 end
+fizzbuzz(3)
